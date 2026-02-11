@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jsem čerstvý absolvent IT bez větších pracovních zkušeností v oboru.<br>Jsem svobodný, bez závazku a časově flexibilní.<br>V současnosti se bavím programováním pro svou potřebu a zábavu.<br>Rád bych pracoval v oboru.
+Jsem absolvent IT bez větších pracovních zkušeností v oboru.<br>Jsem svobodný, bez závazku a časově flexibilní.<br>V současnosti se bavím programováním pro svou potřebu a zábavu.<br>Rád bych pracoval v oboru.
 
 
 ## 🌐 Socials:
